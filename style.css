@@ -1,0 +1,44 @@
+body{
+    background-color: lightgray;
+}
+
+img{
+    float: right;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 0;
+    padding: 0;
+}
+
+.intro{
+    background-color: lightblue;
+    color: lightsalmon;
+}
+
+.fir{
+    font-size: 40px;
+    font-weight: 700;
+}
+.ski{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: blue;
+}
+
+h2{
+    text-align: center;
+    font-weight: 1000;
+}
+
+.Experience{
+    background-color: lightgoldenrodyellow;
+}
+
+.clg{
+    text-align:center;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
